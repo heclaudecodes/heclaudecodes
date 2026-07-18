@@ -1,55 +1,53 @@
-# heclaudecodes — The Slightly Unhinged Code Den
+i build things with claude, curiosity, an unreasonable amount of caffeine and trust on claude's coding skills.
 
-Welcome. You found the place where code goes on mini-adventures and occasionally returns with snacks.
+\#claudemaxxing champ xD
 
-This repo is the personal workshop of heclaudecodes — half curiosity, half caffeine, 100% mild chaos. Expect experiments, odd little utilities, and things that work well enough to impress your cat.
+i'm experimenting with ideas, shipping questionable prototypes, and seeing how far i can push ai-assisted coding even though it catches fire constantly.
 
----
+### what you'll find here
 
-## What's in here (aka "Why am I looking at this?")
-- Small projects, prototypes, and code snippets that were too cool to throw away but too lazy to package.
-- Languages used: a delightful polyglot (see language stats in the repo). If you came for only one language, you may be disappointed. If you like surprises, pull up a chair.
-- Zero pretension. Lots of gifs-in-my-head energy.
+* random experiments that somehow became projects
+* tiny utilities that solve oddly specific problems
+* ai-assisted builds, prototypes, and side quests
+* code in whatever language made sense at 2 a.m.
+* occasional evidence that i should have written more documentation
 
----
+### current philosophy
 
-## Quickstart — How to vibe with this repo
-1. Browse the folders. Pretend you're at a yard sale where everything is free and confusing.
-2. Run things like a curious human, not like a nuclear technician:
-   - Read the README inside each project (if present).
-   - Follow any instructions in the project folder.
-3. Break it gently. If it explodes, file a bug or take a screenshot and send it to me with your finest dramatic flair.
+> build first. optimize later. explain never.
 
----
+if a project exists here, it probably started with:
 
-## Projects you'll probably enjoy
-- experimental-thingy/ — probably my favorite broken experiment
-- tiny-utils/ — small helpers that punch way above their weight
-- nostalgia-scripts/ — retro nonsense because I miss the 2000s
+* "this should only take five minutes"
+* "i wonder if this is possible"
+* "claude, hold my coffee"
 
-(Yes, these names are intentionally vague. I like mystery. Also I rename files frequently. Sue me.)
+### tech stack
 
----
+whatever gets the job done.
 
-## Contributing (aka "How to yell at me constructively")
-- Found a bug? Open an issue with repro steps, a GIF, or interpretive dance notes.
-- Want to contribute? Fork, make a branch, and open a PR. Keep changes focused and mercifully documented.
-- Code style: don't make me cry. Be kind to future-me and other humans.
+seriously.
 
----
+check the language stats and you'll get a better answer than i can give.
 
-## License
-Look in the LICENSE file. If I forgot to add one, assume it's "All the good vibes" or remind me and I'll fix it.
+### contribution guide
 
----
+found a bug?
 
-## Contact
-- Repo owner: heclaudecodes
-- Preferred methods: PRs, issues, or interpretive memes posted in an issue.
+congratulations, you've discovered a feature candidate.
 
----
+open an issue, submit a pull request, or send a meme. all are valid forms of communication.
 
-## Final note (the one that pretends to be wise)
-This repo is a playground, a lab, and sometimes a temperamental art installation. If something here breaks your brain, that's probably intentional. If something here fixes your problem, bonuses for both of us.
+### disclaimer
 
-If you want this README polished, made more formal, or shoved straight into the repo (with commit & branch), say the word and I’ll do the committing dance.
+not every project is finished.
+
+not every experiment is a good idea.
+
+not every good idea survives contact with production.
+
+### thanks for visiting
+
+whether you're here to learn, borrow ideas, laugh at my commits, or judge my folder structure, welcome.
+
+have fun exploring.
